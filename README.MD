@@ -7,7 +7,7 @@ Mainly for psychology papers. And focusing on creative and concise solutions for
 
 Here we have a plot of items for two experimental conditions in which we want to compare the distributions. We order the plots by it median
 
-[Link to the script](/script/ordinal_by_cond.R)
+[Link to the script](/scripts/ordinal_by_cond.R)
 
 ![Plot by condition](plots/items_by_cond.png)
 
@@ -15,7 +15,7 @@ Here we have a plot of items for two experimental conditions in which we want to
 
 Here we have ordinal responses. All ordered by medians. 
 
-[Link to the script](/script/ordinal.R)
+[Link to the script](/scripts/ordinal.R)
 
 ![Plot by condition](plots/ordinal_percent.png)
 
