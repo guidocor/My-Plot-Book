@@ -13,7 +13,7 @@ Here we have a plot of items for two experimental conditions in which we want to
 
 ## Ordinal responses as heatmap
 
-Here we have ordinal responses. All ordered by medians. 
+Here we have ordinal responses. All ordered by medians. This is suitable for highly skewed items. 
 
 [Link to the script](/scripts/ordinal.R)
 
